@@ -20,8 +20,6 @@ I have experience in the following areas:
 
 ### Hobbies
 In my free time, I love to play board games. My favorite ones are:
-
-- Board Games
+Board Games
 - Terraforming Mars
-- Serp
 - Dune
