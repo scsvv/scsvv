@@ -2,7 +2,7 @@
 
 #### Introduction
 Hello there 
-My name is Skorobohatov Sviatoslav, and I'm a 22-year-old student at Odessa National Polytechnic University pursuing a master's degree in Automated and Computer-Integrated Management Systems. 
+My name is Skorobohatov Sviatoslav, and I'm a 23-year-old student at Odessa National Polytechnic University pursuing a master's degree in Automated and Computer-Integrated Management Systems. 
 In addition to my studies, I have a keen interest in web development and have experience with JS React, C# and Python. 
 I'm also a musician, playing the piano, guitar, and drums.
 
