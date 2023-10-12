@@ -6,21 +6,21 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - Proficient in JavaScript (JS) and TypeScript (TS).
 - Experienced in building interactive user interfaces using React, Redux, and React Native.
 
-### Backend Development:
+### backend Development:
 - Skilled in Python and Golang programming.
 - Proficient in web framework development using Django / FastAPI and Chi.
 
-### Database Management:
+### database Management:
 - Experienced in working with various databases, including PostgreSQL, MySQL, and SQLite.
 
-### DevOps & Containerization:
+### devOps & Containerization:
 - Familiar with Docker for containerization.
 - Experienced in task scheduling with Celery.
 - Utilize Redis for caching and messaging.
 - Proficient in setting up and managing LAMP (Linux, Apache, MySQL, PHP or Python) and NGINX server configurations.
 
 
-### Additional Skills:
+### additional Skills:
 - Proficient in version control with Git.
 - Comfortable working in Unix-based environments.
 
